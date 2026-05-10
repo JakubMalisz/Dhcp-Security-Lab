@@ -24,7 +24,7 @@ Celem projektu była analiza podatności protokołu DHCP na ataki w warstwie 2 m
 To narzędzie służy wyłącznie do celów edukacyjnych oraz legalnych testów penetracyjnych. Może być wykorzystywane jedynie w odizolowanych środowiskach laboratoryjnych lub sieciach, w których uzyskano wyraźną zgodę na przeprowadzenie testów. Nieautoryzowane użycie skryptów przeciwko systemom informatycznym jest nielegalne i podlega odpowiedzialności karnej.
 
 ## Autorzy
-**Jakub Malisz** 
+**Jakub Malisz** <br>
 **Antoni Wnęk**
 
 ---
@@ -52,6 +52,6 @@ The goal of this project was to analyze DHCP protocol vulnerabilities in Layer 2
 This tool is for educational and ethical hacking purposes only. Use it only in isolated lab environments or networks where you have explicit permission. Unauthorized use against systems is illegal.
 
 ## Authors
-**Jakub Malisz**
+**Jakub Malisz** <br>
 **Antoni Wnęk**
 
