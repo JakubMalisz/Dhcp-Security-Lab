@@ -11,7 +11,7 @@ Celem projektu była analiza podatności protokołu DHCP na ataki w warstwie 2 m
   2. Metasploit - oprogramowanie do implementacji nieautoryzowanego serwera (Rogue Server) <br>
   3. Autorskie skrypty (metoda alternatywna) - napisane w Pythonie przy użyciu biblioteki Scapy <br>
   
-**Środowisko:** MikroTik RouterOS (fizyczny switch/router) <br><br>
+**Środowisko:** MikroTik RouterOS (fizyczny switch/router) <br>
 **Analiza i weryfikacja:** Wireshark <br>
 
 ## Funkcjonalności skryptów
@@ -43,7 +43,7 @@ The goal of this project was to analyze DHCP protocol vulnerabilities in Layer 2
   2. Metasploit Framework – used for rogue DHCP server implementation <br>
   3. Custom Scripts (Alternative method) – developed in Python using the Scapy library <br>
   
-**Hardware:** MikroTik RouterOS (switch/router) <br><br>
+**Hardware:** MikroTik RouterOS (switch/router) <br>
 **Analysis:** Wireshark <br>
 
 ## Scripts overview
