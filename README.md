@@ -10,11 +10,12 @@ Celem projektu była analiza podatności protokołu DHCP na ataki w warstwie 2 m
   1. DHCPig - oprogramowanie do DHCP Starvation <br>
   2. Metasploit - oprogramowanie do implementacji nieautoryzowanego serwera (Rogue Server) <br>
   3. Autorskie skrypty (metoda alternatywna) - napisane w Pythonie przy użyciu biblioteki Scapy <br>
+  4. Bettercap - Przejęcie ruchu poprzez Man-in-The-Middle <br>
   
 **Środowisko:** MikroTik RouterOS (fizyczny switch/router) <br>
 **Analiza i weryfikacja:** Wireshark <br>
 
-## Funkcjonalności skryptów
+## Funkcjonalność skryptów
 1. **DHCP Starvation (wkrótce dostępne):** Skrypt w Pythonie (Scapy) generujący masowe pakiety DHCP DISCOVER z dynamicznie zmienianym adresem MAC (MAC Spoofing) w celu wyczerpania puli adresowej serwera.
 2. **Rogue DHCP:** Skrypt w Pythonie (Scapy), implementujący nieautoryzowany serwer (Rogue Server) pozwalający na przejęcie roli bramy domyślnej i przeprowadzenie ataku Man-in-the-Middle (MitM).
 
@@ -42,6 +43,7 @@ The goal of this project was to analyze DHCP protocol vulnerabilities in Layer 2
   1. DHCPig – specialized tool for DHCP Starvation attacks <br>
   2. Metasploit Framework – used for rogue DHCP server implementation <br>
   3. Custom Scripts (Alternative method) – developed in Python using the Scapy library <br>
+  4. Bettercap – traffic interception via Man-in-the-Middle (MitM) attacks <br>
   
 **Hardware:** MikroTik RouterOS (switch/router) <br>
 **Analysis:** Wireshark <br>
